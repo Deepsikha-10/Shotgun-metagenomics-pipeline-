@@ -1,0 +1,61 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+uncultured crAssphage	1211417	S	13518	0	13518	0.49768
+Lactococcus virus c2	31537	S	29	1	30	0.00110
+Lactococcus phage 96603	2029676	S	20	64	84	0.00309
+Lactococcus phage CHPC964	2675256	S	15	19	34	0.00125
+Gordonia phage Duffington	2507858	S	15	22	37	0.00136
+Faecalibacterium virus Lugh	2734248	S	21	8	29	0.00107
+Pepper mild mottle virus	12239	S	21	0	21	0.00077
+Bacteroides sp. HF-5287	2650157	S	772	147	919	0.03383
+Bacteroides sp. A1C1	2528203	S	72	188	260	0.00957
+Bacteroides sp. HF-162	2785531	S	42	130	172	0.00633
+Bacteroides sp. HF-5141	2650158	S	25	5	30	0.00110
+Bacteroides sp. CACC 737	2755405	S	12	24	36	0.00133
+Bacteroides uniformis	820	S	1028	894	1922	0.07076
+Bacteroides caccae	47678	S	237	10	247	0.00909
+Bacteroides xylanisolvens	371601	S	165	143	308	0.01134
+Bacteroides thetaiotaomicron	818	S	111	15	126	0.00464
+Bacteroides ovatus	28116	S	72	60	132	0.00486
+Bacteroides fragilis	817	S	58	51	109	0.00401
+Bacteroides intestinalis	329854	S	28	1	29	0.00107
+Phocaeicola dorei	357276	S	694	233	927	0.03413
+Phocaeicola vulgatus	821	S	656	223	879	0.03236
+Odoribacter splanchnicus	28118	S	1233	82	1315	0.04841
+Alistipes shahii	328814	S	655	57	712	0.02621
+Alistipes communis	2585118	S	14	0	14	0.00052
+Alistipes finegoldii	214856	S	10	0	10	0.00037
+Parabacteroides sp. CT06	2025876	S	38	392	430	0.01583
+Cruoricaptor ignavus	1118202	S	13	0	13	0.00048
+Lacrimispora saccharolytica	84030	S	13	410	423	0.01557
+Coprococcus comes	410072	S	113	67	180	0.00663
+Blautia producta	33035	S	39	7	46	0.00169
+Blautia hansenii	1322	S	20	18	38	0.00140
+Roseburia intestinalis	166486	S	36	43	79	0.00291
+[Ruminococcus] torques	33039	S	41	33	74	0.00272
+[Ruminococcus] gnavus	33038	S	10	8	18	0.00066
+Anaerotignum propionicum	28446	S	26	0	26	0.00096
+Anaerostipes hadrus	649756	S	16	4	20	0.00074
+Enterocloster bolteae	208479	S	21	6	27	0.00099
+Anaerobutyricum hallii	39488	S	21	15	36	0.00133
+Lachnoclostridium phocaeense	1871021	S	11	2	13	0.00048
+Lachnospira eligens	39485	S	11	1	12	0.00044
+Faecalibacterium prausnitzii	853	S	213	93	306	0.01127
+Ruminococcus bicirculans	1160721	S	76	8	84	0.00309
+Clostridium botulinum	1491	S	47	1	48	0.00177
+[Eubacterium] cellulosolvens	29322	S	18	0	18	0.00066
+Christensenella sp. Marseille-P3954	2086585	S	10	1	11	0.00040
+Turicibacter sp. H121	1712675	S	1154	97	1251	0.04606
+Streptococcus salivarius	1304	S	17	20	37	0.00136
+Streptococcus sanguinis	1305	S	12	1	13	0.00048
+Lactococcus cremoris	1359	S	16	20	36	0.00133
+Bifidobacterium adolescentis	1680	S	154	21	175	0.00644
+Cutibacterium acnes	1747	S	13	9	22	0.00081
+Olsenella umbonata	604330	S	22	1	23	0.00085
+Pseudanabaena sp. PCC 7367	82654	S	18	0	18	0.00066
+Sutterella wadsworthensis	40545	S	57	299	356	0.01311
+Haemophilus parainfluenzae	729	S	18	138	156	0.00574
+Pseudomonas yamanorum	515393	S	11	30	41	0.00151
+Halomonas sp. JS92-SW72	2306583	S	21	63	84	0.00309
+Akkermansia muciniphila	239935	S	60	6	66	0.00243
+Paludisphaera borealis	1387353	S	17	0	17	0.00063
+Homo sapiens	9606	S	1012	25	1037	0.03818
